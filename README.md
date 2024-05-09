@@ -6,6 +6,14 @@
 
 ###
 
+<div align="center">
+  <a href="https://open.spotify.com/user/12150318524">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=12150318524&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
 <h2 align="left">About me</h2>
 
 ###
@@ -70,8 +78,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/4v41on/4v41on/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <br clear="both">
@@ -88,14 +94,6 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/12150318524">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=12150318524&count=5" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###
