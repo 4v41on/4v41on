@@ -14,6 +14,19 @@
 
 ###
 
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sumeria-c1e40.web.app)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
+[![discord](https://img.shields.io/badge/discord-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/rR8d6ntpvE)
+
+[![twitch](https://img.shields.io/badge/twitch-9147fe?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/ennkkii_)
+
+[![instgram](https://img.shields.io/badge/instagram-c32aa3?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/4v41on)
+
+
+###
+
 <h2 align="left">About me</h2>
 
 ###
@@ -88,12 +101,5 @@
 
 <br clear="both">
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
-</div>
 
 ###
