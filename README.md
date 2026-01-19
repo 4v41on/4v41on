@@ -25,20 +25,6 @@
 [![instgram](https://img.shields.io/badge/instagram-c32aa3?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/4v41on)
 
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Explorando el universo digital desde que tengo memoria...<br><br>📚 Actualmente estoy aprendiendo: Navegar por las profundidades del desarrollo web y explorar nuevas tecnologías que despierten mi curiosidad.<br><br>🎯 Metas: Mi objetivo es fusionar mi pasión por la tecnología con mi deseo de hacer del mundo un lugar mejor. Busco oportunidades para contribuir a proyectos significativos y aprender constantemente en el proceso.<br><br>🎲 Dato curioso: Cuando no estoy frente a la pantalla, me gusta desconectar y sumergirme en mis pasatiempos favoritos. Puedes encontrarme escalando en la naturaleza, explorando nuevos lugares mientras viajo, o capturando momentos con mi cámara. Disfruto perdiéndome en buenas historias, ya sea a través de libros o películas, y a menudo me encontrarás disfrutando de la compañía de mis amigos de cuatro patas. ¡Soy un espíritu libre que encuentra inspiración en las pequeñas cosas y vive para explorar todo lo que la vida tiene para ofrecer!</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
